@@ -1,3 +1,4 @@
 # hello-world
-Learning to use GitHub!
-This is my first experience with any sort of coding since the original HTML! I can't wait to learn more.
+Today I'm learning to use GitHub!
+
+Let's get rid of that other stuff I typed and see what the comparison looks like.
